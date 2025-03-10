@@ -1,5 +1,0 @@
-
-## Prompts
-
-Just the prompts.
-
