@@ -1,6 +1,6 @@
 # Color Terms and Stable Diffusion
 
-Supplemental material for the [CIC32](https://www.imaging.org/IST/IST/Conferences/CIC/CIC2024/CIC_Home.aspx) paper "Color Terms and Stable Diffusion".
+Supplemental material for the [CIC32](https://www.imaging.org/IST/IST/Conferences/CIC/CIC2024/CIC_Home.aspx) paper ["Color Terms and Stable Diffusion"](https://github.com/NMoroney/color_terms_and_stable_diffusion/blob/main/CIC32-Color_Terms_and_Stable_Diffusion.pdf).
 
 <img src="images/CIC32-color_terms_and_stable_diffusion-blues.jpg">
 
